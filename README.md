@@ -18,7 +18,7 @@ Expenso is a modern, feature-rich expense tracking application built with Flutte
 - 📊 Visual expense analytics and reports
 - 💳 Multiple expense categories
 - 🔄 Real-time data synchronization
-- 📱 Cross-platform support (iOS & Android)
+- 📱  Support Android
 
 ## 🎨 UI/UX Highlights
 
